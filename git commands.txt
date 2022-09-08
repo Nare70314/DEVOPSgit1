@@ -1,2 +1,6 @@
 1).This command is used to clone a repository
  git clone https://github.com/Nare70314/DEVOPSgit1.git
+
+2) git add --all
+
+3) git commit -m "fitst commit"
